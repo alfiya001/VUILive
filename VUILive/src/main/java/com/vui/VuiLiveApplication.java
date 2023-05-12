@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VuiLiveApplication {
 
 	public static void main(String[] args) {
-		System.out.println("test");
+		System.out.println("test app");
 		SpringApplication.run(VuiLiveApplication.class, args);
 	}
 
